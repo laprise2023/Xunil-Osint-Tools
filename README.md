@@ -9,7 +9,7 @@
 - Navegadores preconfigurados con los mejores recursos para investigaciones OSINT.
 - Entorno de escritorio diseñado para tener todas las herramientas accesibles por categorías.
 
-### [Descarga](https://www.sherlock-linux.org/descarga/) Xunil Tools Linux.
+### [Descarga](https://sites.google.com/view/xunilosint/descarga/) Xunil Tools Linux.
 
 - Usuario: xunil
 - Contraseña: linux
