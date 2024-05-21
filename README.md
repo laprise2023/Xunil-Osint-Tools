@@ -17,14 +17,16 @@
 
 ### O ...
 
-### INSTALA Xunil Osint Tools
+### INSTALAR Xunil Osint Tools
 
-Una vez hecha la instalación básica se debe crear el usuario xunil y darle los privilegios 
-necesarios para poder instalar las diferentes aplicaciones.
+Una vez hecha la instalación básica del sistema operativo se debe crear el usuario xunil 
+y darle los privilegios necesarios para poder instalar las diferentes aplicaciones.
 
-1º Crear el usuario xuni y añadirlo a sudoers:
+1º Crear el usuario xunil y añadirlo a sudoers:
 ~~~bash
+# Entrar con los privilegios de administrador
 su -l
+
 apt install sudo
 adduser sherlock sudo
 echo 'sherlock  ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers
