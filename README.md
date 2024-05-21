@@ -38,6 +38,7 @@ xunil   ALL=(ALL:ALL) ALL
 2º Instalar Git y Clonar el repositorio
 ~~~bash
 sudo apt install git
-git clone
+git clone https://github.com/laprise2023/Xunil-Osint-Tools.git ~/XunilTools
+
 ~~~
 
