@@ -35,3 +35,9 @@ Default     env_reset # añadimos pwfeedback para cuando la terminal nos solicit
 xunil   ALL=(ALL:ALL) ALL
 # salimos de la terminal para que en la nueva terminal se aplique los cambios realizados
 ~~~
+2º Instalar Git y Clonar el repositorio
+~~~bash
+sudo apt install git
+git clone
+~~~
+
