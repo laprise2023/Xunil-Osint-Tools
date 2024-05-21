@@ -6,8 +6,7 @@
 ### [Acceso WEB](https://sites.google.com/view/xunilosint/inicio)
 ### Distribución de OSINT basada en Debian 12.
 
-- Gran cantidad de herramientas preinstaladas para la obtención de información en fuentes abiertas para investigaciones OSINT.
-- Navegadores preconfigurados con los mejores recursos para investigaciones OSINT.
+- Descripción detallada de como instalar y mantener una distribución personalizada de Debian.
 - Entorno de escritorio diseñado para tener todas las herramientas accesibles por categorías.
 
 ### [Descarga](https://sites.google.com/view/xunilosint/descarga/) Xunil Tools Linux.
@@ -20,9 +19,10 @@
 
 ### INSTALA Xunil Osint Tools
 
-Este script se ha probado únicamente en una distribución Debian 12 con entorno de escritorio XFCE.
+Una vez hecha la instalación básica se debe crear el usuario xunil y darle los privilegios 
+necesarios para poder instalar las diferentes aplicaciones.
 
-1º Crear el usuario sherlock y añadirlo a sudoers:
+1º Crear el usuario xuni y añadirlo a sudoers:
 ~~~bash
 su -l
 apt install sudo
