@@ -31,8 +31,7 @@ nano /etc/sudoers
 # y editamos el fichero sudoers
 En el apartado
 Default     env_reset # añadimos pwfeedback para cuando la terminal nos solicite la contraseña aparezca asteriscos
-ahora buscamos a root
-y a continuación
+#ahora buscamos a root y a continuación damos de alta al usuario xunil con los mismos privilegios que root
 xunil   ALL=(ALL:ALL) ALL
-su xunil
+# salimos de la terminal para que en la nueva terminal se aplique los cambios realizados
 ~~~
