@@ -26,15 +26,13 @@ y darle los privilegios necesarios para poder instalar las diferentes aplicacion
 ~~~bash
 # Entrar como superusuario y tras introducir la contraseña de root 
 su -l
-
-# no dirigimos al siguiente directorio
-
-cd /etc
-
+# editaremos el fichero
+nano /etc/sudoers
 # y editamos el fichero sudoers
-
-apt install sudo
-adduser sherlock sudo
-echo 'sherlock  ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers
-su sherlock
+En el apartado
+Default     env_reset # añadimos pwfeedback para cuando la terminal nos solicite la contraseña aparezca asteriscos
+ahora buscamos a root
+y a continuación
+xunil   ALL=(ALL:ALL) ALL
+su xunil
 ~~~
