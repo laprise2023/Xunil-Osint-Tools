@@ -1,0 +1,16 @@
+Api Keys: ngrok.com
+2adPSb01mdz9R6PryV5OfJw6aG9_5pGpa3MMTPzqRZn9wBG3P
+
+Descargar ngrok
+https://dashboard.ngrok.com/get-started/setup/linux
+
+sudo tar -xvzf ~/Downloads/ngrok-v3-stable-linux-amd64.tgz -C /usr/local/bin
+
+Run the following command to add your authtoken to the default ngrok.yml configuration file.
+
+ngrok config add-authtoken 2acxf5SZum7IyzmABrxK7NskI2N_4j5fhYNKQDaA3VotujGNY
+
+
+Api keys: Ipgeolocation.io
+2fd7283a621e41d7a59577c0b3cd9f87
+
