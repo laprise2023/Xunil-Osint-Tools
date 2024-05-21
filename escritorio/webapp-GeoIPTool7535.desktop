@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=GeoIP Tool
+Comment=Aplicación web
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="/home/xunil/XunilTools/aplicaciones/iconos/GeoIpTool.png" firefox --class WebApp-GeoIPTool7535 --name WebApp-GeoIPTool7535 --profile /home/xunil/.local/share/ice/firefox/GeoIPTool7535 --no-remote "https://www.geoiptool.de/"'
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/xunil/XunilTools/aplicaciones/iconos/GeoIpTool.png
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GeoIPTool7535
+StartupNotify=true
+X-WebApp-Browser=Firefox
+X-WebApp-URL=https://www.geoiptool.de/
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

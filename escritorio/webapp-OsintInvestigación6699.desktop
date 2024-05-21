@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=Osint Investigación
+Comment=Aplicación web
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="applications-development" firefox --class WebApp-OsintInvestigación6699 --name WebApp-OsintInvestigación6699 --profile /home/xunil/.local/share/ice/firefox/OsintInvestigación6699 --no-remote "https://github.com/jivoi/awesome-osint#-people-investigations"'
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=applications-development
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-OsintInvestigación6699
+StartupNotify=true
+X-WebApp-Browser=Firefox
+X-WebApp-URL=https://github.com/jivoi/awesome-osint#-people-investigations
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

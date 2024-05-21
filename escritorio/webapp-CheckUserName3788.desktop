@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=Check UserName
+Comment=Aplicación web
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="/home/xunil/XunilTools/aplicaciones/iconos/CheckUsername.jpg" firefox --class WebApp-CheckUserName3788 --name WebApp-CheckUserName3788 --profile /home/xunil/.local/share/ice/firefox/CheckUserName3788 --no-remote "https://checkusernames.com/"'
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/xunil/XunilTools/aplicaciones/iconos/CheckUsername.jpg
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-CheckUserName3788
+StartupNotify=true
+X-WebApp-Browser=Firefox
+X-WebApp-URL=https://checkusernames.com/
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=true
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

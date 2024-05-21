@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment[es_ES]=Ejecutar Script sherlock.sh
+Exec=sh /home/xunil/XunilTools/aplicaciones/sherlock.sh
+GenericName[es_ES]=
+Icon=/home/xunil/XunilTools/aplicaciones/iconos/sherlock.png
+MimeType=
+Name[es_ES]=Sherlock
+Path=/home/xunil/XunilTools/aplicaciones
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

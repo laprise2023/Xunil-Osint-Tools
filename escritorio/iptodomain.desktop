@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment[es_ES]=Ejecutar Script iptodomain.sh
+Exec=sh /home/xunil/XunilTools/aplicaciones/iptodomain.sh
+GenericName[es_ES]=
+Icon=/home/xunil/XunilTools/aplicaciones/iconos/iptodomain.png
+MimeType=
+Name[es_ES]=IpToDomain
+Path=/home/xunil/XunilTools/aplicaciones
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Name=ShoDan
+Comment=Aplicación web
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="/home/xunil/XunilTools/aplicaciones/iconos/Shodan.png" firefox --class WebApp-ShoDan9325 --name WebApp-ShoDan9325 --profile /home/xunil/.local/share/ice/firefox/ShoDan9325 --no-remote "https://www.shodan.io/"'
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/xunil/XunilTools/aplicaciones/iconos/Shodan.png
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-ShoDan9325
+StartupNotify=true
+X-WebApp-Browser=Firefox
+X-WebApp-URL=https://www.shodan.io/
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
+

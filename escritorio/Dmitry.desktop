@@ -1,0 +1,18 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment[es_ES]=Ejecutar matelgo
+Comment=Script para ejecutar maltego
+Exec=sh /home/xunil/XunilTools/m
+GenericName[es_ES]=
+GenericName=
+Icon=/home/xunil/XunilTools/aplicaciones/iconos/LogoDmitry.png
+MimeType=
+Name[es_ES]=Dmitry
+Name=Trape
+Path=/home/xunil/XunilTools/aplicaciones
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

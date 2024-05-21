@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=Encuentra localización
+Comment=Aplicación web
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="gcompris-qt" firefox --class WebApp-Encuentralocalización4539 --name WebApp-Encuentralocalización4539 --profile /home/xunil/.local/share/ice/firefox/Encuentralocalización4539 --no-remote "https://labs.tib.eu/geoestimation/"'
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=gcompris-qt
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Encuentralocalización4539
+StartupNotify=true
+X-WebApp-Browser=Firefox
+X-WebApp-URL=https://labs.tib.eu/geoestimation/
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=true
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

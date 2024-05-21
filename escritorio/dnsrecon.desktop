@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment[es_ES]=Ejecutar Script dnsrecon.sh
+Exec=sh /home/xunil/XunilTools/aplicaciones/dnsrecon.sh
+GenericName[es_ES]=
+Icon=/home/xunil/XunilTools/aplicaciones/iconos/dnsrecon.png
+MimeType=
+Name[es_ES]=DnsRecon
+Path=/home/xunil/XunilTools/aplicaciones
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

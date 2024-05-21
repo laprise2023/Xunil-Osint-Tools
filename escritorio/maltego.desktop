@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment[es_ES]=Ejecutar matelgo
+Exec=sh /home/xunil/XunilTools/maltego/bin/maltego
+GenericName[es_ES]=
+Icon=/home/xunil/XunilTools/maltego/bin/maltego.ico
+MimeType=
+Name[es_ES]=Maltego
+Path=/home/xunil/XunilTools/maltego/bin/
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

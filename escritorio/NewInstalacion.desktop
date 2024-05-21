@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment[es_ES]=Script para instalar las aplicaciones
+Exec=sh /home/xunil/XunilTools/instalacion/InstalaPrg.sh
+GenericName[es_ES]=
+Icon=braindump
+MimeType=
+Name[es_ES]=Nuevas Instalaciones
+Path=/home/xunil/XunilTools/instalacion
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
