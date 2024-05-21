@@ -14,7 +14,6 @@
 - Usuario: xunil
 - Contraseña: linux
 
-
 ### O ...
 
 ### INSTALAR Xunil Osint Tools
@@ -39,6 +38,5 @@ xunil   ALL=(ALL:ALL) ALL
 ~~~bash
 sudo apt install git
 git clone https://github.com/laprise2023/Xunil-Osint-Tools.git ~/XunilTools
-
 ~~~
 
