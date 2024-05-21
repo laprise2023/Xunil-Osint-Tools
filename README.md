@@ -24,8 +24,14 @@ y darle los privilegios necesarios para poder instalar las diferentes aplicacion
 
 1º Crear el usuario xunil y añadirlo a sudoers:
 ~~~bash
-# Entrar con los privilegios de administrador
+# Entrar como superusuario y tras introducir la contraseña de root 
 su -l
+
+# no dirigimos al siguiente directorio
+
+cd /etc
+
+# y editamos el fichero sudoers
 
 apt install sudo
 adduser sherlock sudo
