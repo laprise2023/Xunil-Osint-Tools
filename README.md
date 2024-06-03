@@ -36,6 +36,7 @@ con los mismos privilegios que root
 xunil   ALL=(ALL:ALL) ALL
 # salimos de la terminal para que en la nueva terminal se aplique los cambios realizados
 con <Ctrl>O para garbar y <Ctrl>X para salir
+exit
 ~~~
 2º Instalar Git y Clonar el repositorio
 ~~~bash
