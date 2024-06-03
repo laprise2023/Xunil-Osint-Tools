@@ -42,4 +42,7 @@ con <Ctrl>O para garbar y <Ctrl>X para salir
 sudo apt install git
 git clone https://github.com/laprise2023/Xunil-Osint-Tools.git ~/XunilTools
 ~~~
-
+3º Configurar el entorno
+~~~bash
+cd XunilTools
+sudo sh ConfigGrub.sh
