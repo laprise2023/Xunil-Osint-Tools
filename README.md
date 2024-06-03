@@ -47,3 +47,4 @@ git clone https://github.com/laprise2023/Xunil-Osint-Tools.git ~/XunilTools
 ~~~bash
 cd XunilTools
 sudo sh ConfigGrub.sh
+4º Reiniciar el equipo
