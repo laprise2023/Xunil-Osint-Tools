@@ -1,2 +1,0 @@
-Tengo que copiar todos los fichero que se encuentra en este directorio para luego ponerlos
-home/xunil/.local/share/ice/firefox/archive0297
