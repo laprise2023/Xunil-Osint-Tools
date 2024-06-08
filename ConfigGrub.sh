@@ -44,7 +44,7 @@ sudo mv /usr/share/images/desktop-base/desktop-lockscreen.xml /usr/share/images/
 sudo cp desktop-lockscreen.xml /usr/share/images/desktop-base/desktop-lockscreen.xml
 sudo ln -s /usr/share/images/desktop-base/FondoInicio.jpg /usr/share/desktop-base/emerald-theme/FondoInicio.jpg
 sudo apt install -y lightdm-gtk-greeter-settings
-#clear
+clear
 opc=9
 echo ""
 echo "
