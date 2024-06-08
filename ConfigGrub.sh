@@ -2,8 +2,6 @@
 #Luis Fernández
 echo ""
 clear
-
-
 opc=9
 echo ""
 echo "
