@@ -1,8 +1,8 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
-Comment[es_ES]=Ejecutar matelgo
-Comment=Script para ejecutar maltego
-Exec=sh /home/xunil/XunilTools/m
+Comment[es_ES]=Ejecutar Dmitry
+Comment=Script para ejecutar Dmitry
+Exec=sh /home/xunil/XunilTools/aplicaciones/dmitry.sh
 GenericName[es_ES]=
 GenericName=
 Icon=/home/xunil/XunilTools/aplicaciones/iconos/LogoDmitry.png
