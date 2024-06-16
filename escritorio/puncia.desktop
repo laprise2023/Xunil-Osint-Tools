@@ -2,14 +2,10 @@
 [Desktop Entry]
 Comment[es_ES]=Ejecutar Script puncia.sh
 Exec=sh /home/xunil/XunilTools/aplicaciones/puncia.sh
-GenericName[es_ES]=
 Icon=/home/xunil/XunilTools/aplicaciones/iconos/Puncia.png
-MimeType=
 Name[es_ES]=Puncia AI
 Path=/home/xunil/XunilTools/aplicaciones
 StartupNotify=true
 Terminal=true
-TerminalOptions=
 Type=Application
 X-KDE-SubstituteUID=false
-X-KDE-Username=
